@@ -18,7 +18,7 @@ body{
   gap:20px;
   padding:0 20px;
 }
-.latest-news-article{
+.latest-news-section{
   background-color: white;
   width: 30%;
   padding:20px;
@@ -39,7 +39,7 @@ body{
   margin-bottom:10px;
 }
 
-.latest-news-article li{
+.latest-news-section li{
   margin-bottom: 10px;
 }
 
